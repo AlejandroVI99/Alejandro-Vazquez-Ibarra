@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: Alejandro Vázquez Ibarra # Nombre completo
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  avatar: profile1.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: avi200599@gmail.com
@@ -53,8 +53,12 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
-
+    I am an enthusiastic, self-motivated, responsible and hard working person and student. 
+    I am an adaptable person to all challenging situations in a work team. 
+    I am able to work well in a team environment. 
+    I am able to work well under pressure and adhere to strict deadlines.
+    I am a dedicated, organized.
+    I am able to take instructions from all levels and build up good working relationships with all coworkers.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Computer stystems engineering
@@ -76,7 +80,8 @@ experiences:
     company: Tecnológico Nacional de México Campus Colima
     details: |
       Basic Android project to apply knowledge to make an app 
-      to show information about all the taxis in a town.
+      to show information about all the taxis in a town. This website was
+      connected to a MySQL database.
 
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
@@ -96,10 +101,10 @@ skills:
       level: 60%
 
     - name: HTML5
-      level: 60%
+      level: 70%
 
     - name: CSS
-      level: 60%
+      level: 70%
       
     - name: Github
       level: 60%
