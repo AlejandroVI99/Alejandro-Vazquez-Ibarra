@@ -15,11 +15,11 @@ sidebar:
   email: avi200599@gmail.com
   phone: 3121090586
   website: # No agregar http://
-  linkedin: brightcoders
+  linkedin: 
   github: AlejandroVI99
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: ''
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,6 +42,12 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
+      
+    - item: Patience
+      link: # dejar en blanco
+      
+    - item: Open-mindedness
+      link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
@@ -56,24 +62,7 @@ educationcomplete:
     time: 2017 Agust - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
