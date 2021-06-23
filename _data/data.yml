@@ -19,7 +19,7 @@ sidebar:
   github: AlejandroVI99
   gitlab:
   bitbucket:
-  twitter: ''
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -61,36 +61,23 @@ educationcomplete:
     university: Tecnológico Nacional de México Campus Colima
     time: 2017 Agust - current
     details: |
+    
+  - degree: Internship
+    university: BrightCoders Academy
+    time: 2021 June - current
+    details: |
 
 
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Student
+    time: 2020
+    company: Tecnológico Nacional de México Campus Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Basic Android project to apply knowledge to make an app 
+      to show information about all the taxis in a town.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -112,6 +99,9 @@ skills:
       level: 60%
 
     - name: CSS
+      level: 60%
+      
+    - name: Github
       level: 60%
 
 # NO MODIFICAR
