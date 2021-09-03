@@ -82,7 +82,14 @@ experiences:
       Basic Android project to apply knowledge to make an app 
       to show information about all the taxis in a town. This website was
       connected to a MySQL database.
-
+      
+  - role: Trainee
+    time: 2021
+    company: BrightCoders Academy
+    details: |
+      Develop junior web pages with the framework Ruby on Rails, using web 
+      tools like SASS, Rubocop, RSpec, Bootstrap, etc., also, a little bit 
+      of JavaScript. These web pages were using PostgreSQL Databases.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -99,12 +106,24 @@ skills:
 
     - name: Ruby
       level: 60%
-
+      
+    - name: Ruby on Rails
+      level: 50%
+      
     - name: HTML5
       level: 70%
 
     - name: CSS
       level: 70%
+      
+    - name: SASS
+      level: 50%
+      
+    - name: Bootstrap
+      level: 50%      
+      
+    - name: Javascript
+      level: 25% 
       
     - name: Github
       level: 60%
