@@ -15,7 +15,7 @@ sidebar:
   email: avi200599@gmail.com
   phone: 3121090586
   website: # No agregar http://
-  linkedin: 
+  linkedin: alejandro-vazquez-ibarra
   github: AlejandroVI99
   gitlab:
   bitbucket:
@@ -48,27 +48,40 @@ sidebar:
       
     - item: Open-mindedness
       link: # dejar en blanco
+      
+    - item: Adaptability
+      link: # dejar en blanco
+      
+    - item: Dedication
+      link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am an enthusiastic, self-motivated, responsible and hard working person and student. 
-    I am an adaptable person to all challenging situations in a work team. 
-    I am able to work well in a team environment. 
-    I am able to work well under pressure and adhere to strict deadlines.
-    I am a dedicated, organized.
+    I am a Computational Systems Engineering student and I am in my last semester.
+    
+    I am person who like to learn new skills about programming and improving my work.
+    
+    I am an enthusiastic, self-motivated, responsible and hard working person and student, 
+    who likes to have all kind of challenging situations in a work team. 
+    
+    I am able to work well in a team environment, where I could deal with under pressure circumstances.
+    
+    I am edicated and organized.
+    
     I am able to take instructions from all levels and build up good working relationships with all coworkers.
+    
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Computer stystems engineering
     university: Tecnológico Nacional de México Campus Colima
-    time: 2017 Agust - current
+    time: Agust 2017 - current
     details: |
     
   - degree: Internship
     university: BrightCoders Academy
-    time: 2021 June - current
+    time: May 2021 - September 2021
     details: |
 
 
@@ -84,12 +97,19 @@ experiences:
       connected to a MySQL database.
       
   - role: Trainee
-    time: 2021
+    time: 31/May/21 - 21/September/21
     company: BrightCoders Academy
     details: |
       Develop junior web pages with the framework Ruby on Rails, using web 
       tools like SASS, Rubocop, RSpec, Bootstrap, etc., also, a little bit 
       of JavaScript. These web pages were using PostgreSQL Databases.
+ 
+  - role: Volunteering
+    time: 30/July/21 - 01/August/21
+    company: Hackathon 4 Good
+    details: |
+      Develop backend with Python on Flask where my team won first place 
+      developing a website for Techo House.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -102,7 +122,7 @@ skills:
 
   toolset:
     - name: Python
-      level: 60%
+      level: 50%
 
     - name: Ruby
       level: 60%
