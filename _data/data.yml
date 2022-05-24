@@ -13,7 +13,7 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: avi200599@gmail.com
-  phone: 3121090586
+  phone: + 52 3121090586
   website: # No agregar http://
   linkedin: alejandro-vazquez-ibarra
   github: AlejandroVI99
@@ -59,7 +59,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a Computational Systems Engineering student and I am in my last semester.
+    I am a Computational Systems Engineer.
     
     I am person who like to learn new skills about programming and improving my work.
     
@@ -76,7 +76,7 @@ career-profile:
 educationcomplete:
   - degree: Computer stystems engineering
     university: Tecnológico Nacional de México Campus Colima
-    time: Agust 2017 - current
+    time: Agust 2017 - January 2022
     details: |
     
   - degree: Internship
@@ -110,6 +110,12 @@ experiences:
     details: |
       Develop backend with Python on Flask where my team won first place 
       developing a website for Techo House.
+      
+  - role: Jr Backend Ruby on Rails Developer
+    time: 03/Jan/22 - Current
+    company: Kinedu, S.A.P.I. de C.V.
+    details: |
+      Develop new features for the main app and fix issues with Ruby on Rails.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -150,4 +156,4 @@ skills:
 
 # NO MODIFICAR
 footer: >
-  BrightCoders Academy
+  Alejandro Vázquez Ibarra
