@@ -123,36 +123,36 @@ experiences:
 # 60% para Competent
 # 80% para Proficient
 # 100% para Expert
-skills:
-  title: Technical Skills # NO MODIFICAR
+#skills:
+#  title: Technical Skills # NO MODIFICAR
 
-  toolset:
-    - name: Python
-      level: 40%
+#  toolset:
+#    - name: Python
+#      level: 40%
 
-    - name: Ruby
+#    - name: Ruby
+#      level: 40%
+      
+#    - name: Ruby on Rails
       level: 40%
       
-    - name: Ruby on Rails
-      level: 40%
-      
-    - name: HTML5
-      level: 70%
+#    - name: HTML5
+#      level: 70%
 
-    - name: CSS
-      level: 70%
+#    - name: CSS
+#      level: 70%
       
-    - name: SASS
-      level: 50%
+#    - name: SASS
+#      level: 50%
       
-    - name: Bootstrap
+#    - name: Bootstrap
       level: 50%      
       
-    - name: Javascript
-      level: 25% 
+#    - name: Javascript
+#      level: 25% 
       
-    - name: Github
-      level: 60%
+#    - name: Github
+#      level: 60%
 
 # NO MODIFICAR
 footer: >
