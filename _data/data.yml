@@ -8,8 +8,8 @@ sidebar:
 
   # Profile information
   name: Alejandro Vázquez Ibarra # Nombre completo
-  tagline: Jr. Ruby on Rails Back-End Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: IMG_8112 (1).JPG # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  tagline: Jr. Back-End Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: AlejandroVázquez(1).jpg # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: avi200599@gmail.com
@@ -111,12 +111,17 @@ experiences:
       Develop backend with Python on Flask where my team won first place 
       developing a website for Techo House.
       
-  - role: Jr Backend Ruby on Rails Developer
+  - role: Jr Ruby on Rails Back-end Developer
     time: 03/Jan/22 - 20/Jan/23
     company: Kinedu, S.A.P.I. de C.V.
     details: |
       Develop new features for the main app and fix issues with Ruby on Rails.
 
+  - role: Jr Python Back-end Developer
+    time: 03/Jan/26 - Current
+    company: Vauxoo
+    details: |
+      Develop new features for differents projects with Odoo ORM and Python.
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
