@@ -59,18 +59,11 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a Computational Systems Engineer.
-    
-    I am person who like to learn new skills about programming and improving my work.
-    
-    I am an enthusiastic, self-motivated, responsible and hard working person and student, 
-    who likes to have all kind of challenging situations in a work team. 
-    
-    I am able to work well in a team environment, where I could deal with under pressure circumstances.
-    
-    I am dedicated and organized.
-    
-    I am able to take instructions from all levels and build up good working relationships with all coworkers.
+    I'm a Computational Systems Engineer who like to learn new skills about programming and differtents areas to help my
+    team. I'm an enthusiastic, self-motivated, responsible and hard working person, who likes to have all kind of challenging 
+    situations. I'm able to work well in a team environment, where I could deal with under pressure circumstances,
+    also, I'm able to take instructions from all levels and build up good working relationships with all coworkers. In my 
+    daily life and at work I like to be dedicated and organized with all the things that I do.
     
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -92,30 +85,33 @@ experiences:
     time: 2020
     company: Tecnológico Nacional de México Campus Colima
     details: |
-      Basic Android project to apply knowledge to make an app 
-      to show information about all the taxis in a town. This website was
-      connected to a MySQL database.
+      Basic Android project to apply knowledge to build an app to show information about all the taxis in a town.
+      This website was connected to a MySQL database.
       
   - role: Trainee
     time: 31/May/21 - 21/September/21
     company: BrightCoders Academy
     details: |
-      Develop junior web pages with the framework Ruby on Rails, using web 
-      tools like SASS, Rubocop, RSpec, Bootstrap, etc., also, a little bit 
-      of JavaScript. These web pages were using PostgreSQL Databases.
+      Develop junior web pages with the framework Ruby on Rails, using web tools like SASS, Rubocop, RSpec, Bootstrap,
+      and a little bit of JavaScript. These web pages were using PostgreSQL Databases. 
+    link: https://github.com/AlejandroVI99/BrightCoders-Cerificate
  
   - role: Volunteering
     time: 30/July/21 - 01/August/21
     company: Hackathon 4 Good
     details: |
-      Develop backend with Python on Flask where my team won first place 
-      developing a website for Techo House.
+      My team won the first place.
+      Develop the first endpoints for the website that need to be restructure with Python.
+      Were used the framework Flask.
       
   - role: Jr Ruby on Rails Back-end Developer
     time: 03/Jan/22 - 20/Jan/23
     company: Kinedu, S.A.P.I. de C.V.
     details: |
-      Develop new features for the main app and fix issues with Ruby on Rails.
+      Develop new controllers, active jobs, views and functions for the main app and fix issues.
+      Create services on Rails.
+      Create scripts to fill tables in the database.
+      Create queries to be find records in the database.
 
   - role: Jr Python Back-end Developer
     time: 03/Jan/26 - Current
