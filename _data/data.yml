@@ -106,7 +106,7 @@ experiences:
       - Develop new controllers, active jobs, views and functions for the main app and fix issues.
       - Create services on Rails.
       - Create scripts to fill tables in the database.
-      - Create queries to be find records in the database.
+      - Create queries to find records in the database.
 
   - role: Jr Python Back-end Developer
     time: 03/Jan/26 - Current
